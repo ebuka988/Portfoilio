@@ -1,0 +1,88 @@
+.navb{
+    background-color: #2b2c2c4f !important;
+    color: white !important;
+    justify-content: space-between !important;
+}
+
+
+
+
+.bg-img{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.801), rgba(0, 0, 0, 0.651)), url(./imgs/clement-helardot-95YRwf6CNw8-unsplash.jpg) !important;
+    background-repeat: no-repeat !important;
+    height: 100vh !important;
+    background-size: cover !important;
+    background-position: center;
+    background-attachment: fixed !important;
+}
+
+.web-h1{
+color: #d88b16;
+}
+.lor{
+    max-width: 700px;
+}
+.bt-down{
+    border: #d88b16 solid 2px !important;
+    color: white !important;
+    border-radius: 50px;
+}
+
+.name{
+    font-family: 'Poppins', sans-serif;
+}
+
+.cv{
+    
+}
+
+ul{
+    list-style: none;
+}
+
+.greater{
+    color: #d88b16 !important;
+}
+
+
+.color{
+    color: #ffb727;
+}
+
+.social-icon{
+    width: 10%;
+    margin-top: 15px;
+    justify-content: center !important;
+}
+
+.icon-d{
+    display: flex !important;
+    
+}
+
+.em-cal{
+
+}
+
+@media screen {
+    
+}
+
+.bt-1{
+    background-color: #ffb727 !important;
+    color: white !important;
+    justify-content: center !important;
+    align-items: center !important;
+
+}
+
+.bg-img2{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.801), rgba(0, 0, 0, 0.651)), url(./imgs/christopher-gower-m_HRfLhgABo-unsplash.jpg) !important;
+    background-repeat: no-repeat !important;
+    height: 100vh !important;
+    background-size: cover !important;
+    background-position: center;
+    /* background-attachment: fixed; */
+}
+
+
